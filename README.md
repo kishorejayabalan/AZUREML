@@ -23,11 +23,16 @@ From Azure portal, create machine learning resource from the resource blade
 # Wait for the compute to be created
 ![image](https://user-images.githubusercontent.com/77250577/126241844-d9d0224a-2517-46bb-8814-48ca0059e5b0.png)
 
-# Create a new notebook with python language option
-![image](https://user-images.githubusercontent.com/77250577/126366876-9a191cd9-652a-4f12-803f-f3ec4d252f36.png)
-
 # Create a new directory (name: data) and upload the two dataset 
 ![image](https://user-images.githubusercontent.com/77250577/126367361-bbad6bfd-a3f5-4f61-ad9e-30703cdfa918.png)
 
+# Create a new notebook - detectdatadrift.ipynb with python language option
+![image](https://user-images.githubusercontent.com/77250577/126366876-9a191cd9-652a-4f12-803f-f3ec4d252f36.png)
 
+# Follow the instructions the azuredatadrift.ipynb located source code repository in Github page
+
+# Review the datadrift from Azure ML workspace by navigating to dataset
+![image](https://user-images.githubusercontent.com/77250577/126369667-94518238-1898-4955-928a-70f1ccf7a7c7.png)
+
+![image](https://user-images.githubusercontent.com/77250577/126369805-6fb67e14-1101-4c28-8df8-2215c60e6a8c.png)
 
